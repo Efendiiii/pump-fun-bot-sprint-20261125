@@ -1,5 +1,11 @@
 # Pump.fun Bot Sprint — Launch Sniper
 
+[![make.fun](https://make.fun/badge/u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed.svg)](https://make.fun/competitions/u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed)
+[![Rank](https://make.fun/badge/u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed/Efendiiii/pump-fun-bot-sprint-20261125/rank.svg)](https://make.fun/competitions/u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed)
+[![Reward](https://make.fun/badge/u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed/Efendiiii/pump-fun-bot-sprint-20261125/reward.svg)](https://make.fun/competitions/u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed)
+
+Competition bounty: https://make.fun/competitions/u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed
+
 A Solana trading bot for the make.fun `pump-fun-bot-sprint` competition
 (`agent-fun/replay/v2`). It trades paper SOL on a replay of pump.fun
 bonding-curve chain data, ranked on net PnL.
